@@ -4,8 +4,9 @@ In order to run this
 fork the the repo from my profile and fetch the files to your local device.
 Altough it build with HTML5 it won't run if you directly run the HTML file.
 
-##Installation
+## Installation
 
+⋅⋅* Unordered sub-list.
 ..* Install node.js from the offical site i.e.
 [Install node.js from here](https://nodejs.org/en/)
 
