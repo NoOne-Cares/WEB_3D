@@ -6,17 +6,16 @@ Altough it build with HTML5 it won't run if you directly run the HTML file.
 
 ## Installation
 
-⋅⋅* Unordered sub-list.
-..* Install node.js from the offical site i.e.
+1. Install node.js from the offical site i.e.
 [Install node.js from here](https://nodejs.org/en/)
 
 
-..* If you allredy have node.js installed / after installing node js.
+2. If you allredy have node.js installed / after installing node js.
 run this comond on the terminal
 `npm install`
 It will install all the dependancies
 
-..* Instead of creating a server with node.js just enter the command to execute a build in script to do so
+3. Instead of creating a server with node.js just enter the command to execute a build in script to do so
 `npm run dev`
 
 Ta Da here you go you should have something like this running on your browser.
